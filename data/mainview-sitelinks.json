@@ -1,0 +1,77 @@
+[
+  {
+    "Href": "https://raw.githubusercontent.com/johnbaluka/data-JohnBalukaCom/main/data/mainview-slides.json",
+    "Nav": "/",
+    "External": false,
+    "Type": "slides",
+    "Icon": "fa-home",
+    "Text": "JohnBaluka.com",
+    "Description": "How can I help?",
+    "Title": "I help software development teams move forward within the Microsoft Tech Stack.",
+    "YouTubeId": "7JdOMlejfno",
+    "CreatedDateTime": "2026-01-10T09:00:00",
+    "UpdatedDateTime": "2026-03-15T14:30:00"
+  },
+  {
+    "Href": "https://raw.githubusercontent.com/johnbaluka/data-MovingToBlazorCom/main/data/mainview-slides.json",
+    "Nav": "/MovingToBlazor",
+    "External": false,
+    "Type": "slides",
+    "Icon": "fa-arrow-right",
+    "Text": "Moving To Blazor",
+    "Description": "Blazor Rocks!",
+    "Title": "Is moving to Blazor the right choice?",
+    "YouTubeId": "qC0GjLdfmrI",
+    "CreatedDateTime": "2026-01-18T10:15:00",
+    "UpdatedDateTime": "2026-01-18T10:15:00"
+  },
+  {
+    "Href": "https://raw.githubusercontent.com/johnbaluka/data-MultimodalSlidesCom/main/data/mainview-slides.json",
+    "Nav": "/MultimodalSlides",
+    "External": false,
+    "Type": "slides",
+    "Icon": "fa-regular fa-face-surprise",
+    "Text": "Multimodal Slides",
+    "Description": "Multimodal Slides Description",
+    "Title": "Multimodal Slides Title",
+    "YouTubeId": "xEVohYffqnY",
+    "CreatedDateTime": "2026-02-05T08:45:00",
+    "UpdatedDateTime": "2026-03-10T16:20:00"
+  },
+  {
+    "Href": "https://sessionize.com/john-baluka/",
+    "Nav": "",
+    "External": true,
+    "Type": "external",
+    "Icon": "fa-people-group",
+    "Text": "Talks",
+    "Description": "Talks Description",
+    "Title": "Talks Title",
+    "CreatedDateTime": "2025-12-20T11:00:00",
+    "UpdatedDateTime": "2026-02-28T09:45:00"
+  },
+  {
+    "Href": "https://JohnBaluka.com",
+    "Nav": "/OldSite",
+    "External": false,
+    "Type": "internal",
+    "Icon": "fa-people-group",
+    "Text": "JohnBaluka.com (old site)",
+    "Description": "JohnBaluka.com (old site)",
+    "Title": "JohnBaluka.com (old site)",
+    "CreatedDateTime": "2025-12-28T15:30:00",
+    "UpdatedDateTime": "2025-12-28T15:30:00"
+  },
+  {
+    "Href": "https://code.visualstudio.com/updates",
+    "Nav": "/VsCodeReleaseNotes",
+    "External": false,
+    "Type": "internal",
+    "Icon": "fa-people-group",
+    "Text": "VS Code Release Notes",
+    "Description": "VS Code Release Notes",
+    "Title": "VS Code Release Notes",
+    "CreatedDateTime": "2025-12-28T15:30:00",
+    "UpdatedDateTime": "2025-12-28T15:30:00"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "Href": "mailto:John@JohnBaluka.com",
+    "Nav": "",
+    "External": true,
+    "Type": "external",
+    "Icon": "fa-envelope",
+    "Text": "John@JohnBaluka.com",
+    "Description": "Send me an Email",
+    "Title": "Send me an Email",
+    "CreatedDateTime": "2026-01-05T08:00:00",
+    "UpdatedDateTime": "2026-01-05T08:00:00"
+  },
+  {
+    "Href": "https://www.youtube.com/@JohnBaluka",
+    "Nav": "",
+    "External": true,
+    "Type": "external",
+    "Icon": "fa-play",
+    "Text": "YouTube",
+    "Description": "My YouTube Channel",
+    "Title": "My YouTube Channel",
+    "CreatedDateTime": "2025-12-22T10:30:00",
+    "UpdatedDateTime": "2026-03-01T12:00:00"
+  },
+  {
+    "Href": "https://www.linkedin.com/in/johnbaluka/",
+    "Nav": "",
+    "External": true,
+    "Type": "external",
+    "Icon": "fa-handshake",
+    "Text": "LinkedIn",
+    "Description": "My LinkedIn Profile",
+    "Title": "My LinkedIn Profile",
+    "CreatedDateTime": "2026-01-12T14:00:00",
+    "UpdatedDateTime": "2026-02-15T09:30:00"
+  },
+  {
+    "Href": "https://github.com/JohnBaluka",
+    "Nav": "",
+    "External": true,
+    "Type": "external",
+    "Icon": "fa-code-branch",
+    "Text": "GitHub",
+    "Description": "My GitHub Profile",
+    "Title": "My GitHub Profile",
+    "CreatedDateTime": "2026-02-01T11:00:00",
+    "UpdatedDateTime": "2026-02-01T11:00:00"
+  },
+  {
+    "Href": "https://sessionize.com/john-baluka",
+    "Nav": "",
+    "External": true,
+    "Type": "external",
+    "Icon": "fa-bullhorn",
+    "Text": "Sessionize",
+    "Description": "My Sessionize Profile",
+    "Title": "My Sessionize Profile",
+    "CreatedDateTime": "2025-12-30T16:45:00",
+    "UpdatedDateTime": "2026-03-05T10:15:00"
+  },
+  {
+    "Href": "https://DoMoreWithSlides.com/",
+    "Nav": "",
+    "External": true,
+    "Type": "external",
+    "Icon": "fa-regular fa-face-smile",
+    "Text": "Do More with Slides",
+    "Description": "My Vision - DoMoreWithSlides.com",
+    "Title": "My Vision - DoMoreWithSlides.com",
+    "CreatedDateTime": "2026-02-14T13:00:00",
+    "UpdatedDateTime": "2026-02-14T13:00:00"
+  }
+]
