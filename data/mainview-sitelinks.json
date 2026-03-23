@@ -104,6 +104,7 @@
     "HrefBranch": "main",
     "HrefOverride": "{HrefBaseOverride}/{HrefRepo}/data/mainview-slides.json",
     "UseHrefOverride": false,
+    "HrefAuth": "github",
     "Nav": "/MultimodalSlides",
     "External": false,
     "Type": "slides",
